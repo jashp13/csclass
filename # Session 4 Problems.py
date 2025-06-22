@@ -1,4 +1,4 @@
-# Session 3 Problems
+# Session 4 Problems
 
 def ps3p1():
     ticker = input("Enter stock ticker symbol: ")
